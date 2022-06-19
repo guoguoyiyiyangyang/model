@@ -1,0 +1,114 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "1.moc3",
+		"Textures": [
+			"1.8192/texture_00.png"
+		],
+		"Physics": "1.physics3.json",
+		"DisplayInfo": "1.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "expression1.exp3.json",
+				"File": "Aaixin.exp3.json"
+			},
+			{
+				"Name": "expression1.exp3.json2",
+				"File": "Adagaoguang.exp3.json"
+			},
+			{
+				"Name": "expression1.exp3.json3",
+				"File": "Axingxing.exp3.json"
+			},
+			{
+				"Name": "expression1.exp3.json4",
+				"File": "Agaoguangoff.exp3.json"
+			},
+			{
+				"Name": "expression1.exp3.json5",
+				"File": "Aheilian.exp3.json"
+			},
+			{
+				"Name": "expression1.exp3.json6",
+				"File": "Adaidai.exp3.json"
+			},
+			{
+				"Name": "expression1.exp3.json7",
+				"File": "Awenxiang.exp3.json"
+			},
+			{
+				"Name": "expression1.exp3.json8",
+				"File": "Adihan.exp3.json"
+			},
+			{
+				"Name": "expression1.exp3.json9",
+				"File": "Ayanlei.exp3.json"
+			},
+			{
+				"Name": "expression1.exp3.json10",
+				"File": "Blingjie.exp3.json"
+			},
+			{
+				"Name": "expression1.exp3.json11",
+				"File": "Blingsheng.exp3.json"
+			},
+			{
+				"Name": "expression1.exp3.json12",
+				"File": "Blingdaioff.exp3.json"
+			},
+			{
+				"Name": "expression1.exp3.json13",
+				"File": "Bxizhuangguan.exp3.json"
+			},
+			{
+				"Name": "expression1.exp3.json14",
+				"File": "Cmaozioff.exp3.json"
+			},
+			{
+				"Name": "expression1.exp3.json15",
+				"File": "Cduanfa.exp3.json"
+			},
+			{
+				"Name": "expression1.exp3.json16",
+				"File": "Cbianzi.exp3.json"
+			},
+			{
+				"Name": "expression1.exp3.json17",
+				"File": "Cchangfaoff.exp3.json"
+			},
+			{
+				"Name": "expression1.exp3.json18",
+				"File": "Bwazi1.exp3.json"
+			},
+			{
+				"Name": "expression1.exp3.json19",
+				"File": "Bwazi2.exp3.json"
+			},
+			{
+				"Name": "expression1.exp3.json20",
+				"File": "Qzuoshou1.exp3.json"
+			},
+			{
+				"Name": "expression1.exp3.json21",
+				"File": "Qyoushou1.exp3.json"
+			},
+			{
+				"Name": "expression1.exp3.json22",
+				"File": "Qzuoshou2.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	],
+	"HitAreas": []
+}
